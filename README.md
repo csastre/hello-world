@@ -1,4 +1,4 @@
 # hello-world
-Tutorial repository for Conrad
+Tutorial repository for CTS
 
 Nothing special to see here.  Just making changes for tutorial.
